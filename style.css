@@ -1,8 +1,8 @@
 p{
      font-family: "Poiret One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-     font-size:80px;
+  font-weight: 500;
+    font-size: 80px;
+  font-style: bold;
     color: #FCF8DD;
     text-align: center;
     margin: 0px;
@@ -16,5 +16,5 @@ div.container{
     height: 100vh;
     background-color: #FFD700;
     
-
 }
+
